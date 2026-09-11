@@ -3,9 +3,9 @@ def details (a,b,c):
      print(f'my name is {a}')
      print(f'my calss is {b}')
      print(f'my roll is {c}')
-details('srav',5,'5A')
+details('pooji',5,'5A')
 print()
-details(c='5A',a='srav',b='5')
+details(c='5A',a='pooji',b='5')
 print()
 def add (a,b=100,c=200):
     print(a + b + c)
