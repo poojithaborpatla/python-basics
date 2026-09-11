@@ -174,3 +174,4 @@ if res == nums:
     print("Armstrong Number")
 else:
     print("Not Armstrong Number")
+    #
