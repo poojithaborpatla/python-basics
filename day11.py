@@ -10,3 +10,4 @@ for c in range(len(matrix[0])):
     for r in range(len(matrix)):
         print(matrix[r][c], end=' ')
     print()
+    #
