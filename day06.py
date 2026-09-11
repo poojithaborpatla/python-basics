@@ -118,3 +118,4 @@ print(type(b))
 #get all items in dict and print its type
 c=d.items
 print(type(c))
+#
