@@ -131,3 +131,4 @@ print('Date after 7 days:', future_date)
 # Subtract days
 past_date = today - timedelta(days=7)
 print('Date 7 days ago:', past_date)
+#
