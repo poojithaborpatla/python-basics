@@ -51,4 +51,4 @@ print(l.count(3))
 w=[1,2,4,3,7,8]
 print(w.index(4))
 print(w.index(4,2))
-
+#
